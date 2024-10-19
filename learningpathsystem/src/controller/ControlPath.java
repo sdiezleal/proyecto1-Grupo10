@@ -132,9 +132,10 @@ public class ControlPath {
 
 	public float getProgreso() {
 		return progreso;
+
 	}
 	
-		
+
 	
 	
 	
